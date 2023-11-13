@@ -1,0 +1,27 @@
+https://medium.com/nerd-for-tech/linked-in-web-scraper-using-selenium-15189959b3ba
+
+https://maoviola.medium.com/a-complete-guide-to-web-scraping-linkedin-job-postings-ad290fcaa97f
+
+https://stackoverflow.com/questions/51956000/what-does-keras-tokenizer-method-exactly-do
+
+https://stackoverflow.com/questions/13298907/remove-all-newlines-from-inside-a-string (read last answer)
+
+
+https://stackoverflow.com/questions/28757389/pandas-loc-vs-iloc-vs-at-vs-iat
+
+https://towardsdatascience.com/conditional-selection-and-assignment-with-loc-in-pandas-2a5d17c7765b
+https://github.com/lukebarousse/Job_Analysis/blob/master/Job_Analysis.ipynb
+
+Market basket analysis:
+https://pbpython.com/market-basket-analysis.html
+
+https://towardsdatascience.com/apriori-algorithm-for-association-rule-learning-how-to-find-clear-links-between-transactions-bf7ebc22cf0a
+
+https://efficient-apriori.readthedocs.io/en/latest/
+
+
+Pandas:
+https://stackoverflow.com/questions/22219004/how-to-group-dataframe-rows-into-list-in-pandas-groupby
+
+
+https://github.com/Khan/openpyxl/blob/master/doc/source/tutorial.rst#id13
